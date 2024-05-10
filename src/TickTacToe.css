@@ -3,8 +3,8 @@
   grid-template-columns: repeat(3, 100px); 
   grid-template-rows: repeat(3, 100px);
   gap: 20px;
-  margin-top: 5%;
-  margin-left: 33vw;
+  margin-top: 0%;
+  margin-left: 32vw;
 }
 
 .tick-tac-toe .square {
@@ -29,7 +29,7 @@
 .tick-tac-toe .status {
   margin-bottom: 10px;
   color: white;
-  margin-left: 39vw;
+  margin-left: 42vw;
   font-size: 2rem;
 }
 
@@ -49,7 +49,7 @@
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  margin-left: 42vw;
+  margin-left: 43vw;
 }
 
 body{
