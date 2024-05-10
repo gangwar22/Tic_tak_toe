@@ -29,7 +29,7 @@
 .tick-tac-toe .status {
   margin-bottom: 10px;
   color: white;
-  margin-left: 42vw;
+  margin-left: 43vw;
   font-size: 2rem;
 }
 
@@ -49,7 +49,7 @@
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  margin-left: 43vw;
+  margin-left: 45vw;
 }
 
 body{
