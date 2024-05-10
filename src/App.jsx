@@ -1,5 +1,5 @@
 import './App.css'
-import TickTacToe from './assets/Tick'
+import TickTacToe from './component/Tick'
 
 function App() {
   
