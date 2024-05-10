@@ -29,13 +29,15 @@
 .tick-tac-toe .status {
   margin-bottom: 10px;
   color: white;
-  margin-left: 34vw;
+  margin-left: 39vw;
+  font-size: 2rem;
 }
 
 .tick-tac-toe h1{
   color: white;
   height: 100%;
-  margin-left: 33vw;
+  margin-left: 37vw;
+  font-size: 2.5rem;
 }
 
 .new-game-button {
@@ -47,7 +49,7 @@
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  margin-left: 35vw;
+  margin-left: 42vw;
 }
 
 body{
