@@ -80,7 +80,7 @@ const TickTacToe = () => {
         </div>
       </div>
     </div>
-      <button className="new-game-button" onClick={handleReset}>New Game</button>
+      <button className="custom-btn btn-12" onClick={handleReset}><span>Click!</span><span>New Game</span></button>
     </>
   );
 };
