@@ -147,6 +147,7 @@ body {
   .tick-tac-toe h1 {
     width: 100%;
     font-size: 8vw;
+    margin-right: 20px;
   }
 
   .btn-12 {
